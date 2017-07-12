@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!-- my title name displahing in browser tab -->
+    <title>Inputs Demo</title>
+  </head>
+  <!-- radio button -->
+  <!-- select tag  -->
+  <!-- textarea tag -->
+  <!-- Opening my body -->
+  <body>
+    <!-- Question using a p tag -->
+    <p>Do you prefer Dog's or Cat's?</p>
+    <!-- Opening my form -->
+    <form>
+
+    <!-- Label dogs -->
+      <label for="dogs">Dog's:</label>
+      <!-- input dogs using the name, value and id attributes -->
+      <!-- using the name attribute on both radiobuttons make it equal value and force user to oick one  -->
+      <!-- using the value attribute we are storing the value in all caps -->
+      <input type="radio" id="dogs" name="petChoice" value="DOGS">
+
+      <!-- Label cats -->
+      <label for="cats">Cat's:</label>
+      <!-- input cats using the name, value and id attributes -->
+      <input type="radio" id="cats" name="petChoice" value="Cats">
+      <!-- Question using the p tag -->
+      <p>What's your favorite color?</p>
+      <!-- Using the select tag -->
+      <select class="colors" name="colors">
+        <!-- We have to use the option tag to display in out selector -->
+      <option value="">Red</option>
+      <option value="">Black</option>
+      <option value="">Pink</option>
+      <!-- closing my select tag colors -->
+      </select>
+      <!-- my button Go -->
+      <button type="button" name="button">Go!</button>
+      <!-- using a text area incase you asking user for input  -->
+      <textarea name="paragraph" rows="8" cols="80"></textarea>
+
+    </form>
+  </body>
+</html>
