@@ -10,19 +10,55 @@
   <!-- Title register using an h1 -->
   <h1><strong>Register!</strong></h1>
   <!-- my form using the label attribute -->
-    <form >
+    <form>
+      <!-- name label -->
+    <label for="firstName">First Name:</label>
+    <!-- name input using a place holder -->
+    <input type="text" id="firstName" name="firstName" value="" placeholder="John" required>
+    <!-- name label -->
+    <label for="lastName">Last Name:</label>
+    <!-- name input using a place holder -->
+    <input type="text" id="lastName" name="lastName" value="" placeholder="Smith" required>
+
+    <!-- opening up a div to separate my radio buttons -->
+    <div class="radiobuttons">
+    <!-- My label for my radio button -->
+    <label for="male">Male:</label>
+    <!-- using a radio button  -->
+    <input type="radio" name="genderChoice" >
+    <!-- My label for my radio button -->
+    <label for="female">Female:</label>
+    <!-- using a radio button  -->
+    <input type="radio" name="genderChoice" >
+    <!-- My label for my radio button -->
+    <label for="other">Other:</label>
+    <!-- using a radio button  -->
+    <input type="radio" name="genderChoice">
+    <!-- Closing up my radio buttons div -->
+      </div>
+
+    <!-- opening up a div for my email and password input -->
+    <div class="emailpass">
     <!-- Label tag Username -->
     <label for="email">Email:</label>
     <!-- Input tag using the id attribute to attach to our label tag -->
     <input type="email" id="username" name="" value="" placeholder="Email" required>
     <!-- Label tag Password -->
-    <label for="password">  Password:</label>
-    <!-- Input tag using the id attribute to attach to our label tag -->
-    <input type="password" inputmode="numeric" minlegth="12" id="password" name="password" size="10" value="password" placeholder="Password" required>
+    <label for="password">  Password:
+    <!-- Input tag using the id attribute to attach to our label tag and  password validation  -->
+    <input type="password" id="password" name="password"  pattern=".{5,10}" required title="5 to 10 Characters" >
+    <!-- closing the password label  -->
+    </label>
+    <!-- Closing up my email input div -->
+    </div>
+
+  
+
     <!-- Input type submit using the attribute value -->
     <input type="submit" name="submit" value="Submit">
-  <!-- Closing my form -->
-  </form>
+
+    <!-- Closing my form -->
+    </form>
 
     <!-- Closing my body -->
   </body>
