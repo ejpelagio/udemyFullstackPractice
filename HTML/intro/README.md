@@ -1,6 +1,6 @@
 # Intro to HTML
 
-Objectives
+## Objectives
 **********************************************
 
 * Writing simple HTML documents
