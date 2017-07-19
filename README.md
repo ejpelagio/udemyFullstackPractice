@@ -1,6 +1,6 @@
 # Udemy Fullstack Practice Course
 
-Throughout the course I am Reviewing tons of tools and technologies including:
+Throughout the course I am reviewing tons of tools and technologies including:
 
 * HTML5
 * CSS3
@@ -21,4 +21,4 @@ Throughout the course I am Reviewing tons of tools and technologies including:
 * Authorization
 
 
-[Find out more info about the Course](https://www.udemy.com/the-web-developer-bootcamp/
+[Find out more info about the Course](https://www.udemy.com/the-web-developer-bootcamp/)
