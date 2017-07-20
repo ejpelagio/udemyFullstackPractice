@@ -1,9 +1,9 @@
 # Intro to HTML
 
+**********************************************
+
 ## Objectives
 
-
-**********************************************
 
 * Writing simple HTML documents
 * Understand the difference between closing and self closing tags

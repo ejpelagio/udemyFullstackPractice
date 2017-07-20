@@ -11,6 +11,7 @@
 
 #### Every HTML document will start with this boilerplate:
 
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -23,3 +24,4 @@
 
 </body>
 </html>
+```
