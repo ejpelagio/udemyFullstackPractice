@@ -21,4 +21,4 @@
 * Authorization
 
 
-[Find out more info about the Course](https://www.udemy.com/the-web-developer-bootcamp/)
+[Find out more info about the Course By:Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/)
