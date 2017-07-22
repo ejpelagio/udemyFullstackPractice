@@ -1,9 +1,9 @@
 /*font-family tag*/
 p{
-  font-family: "Arial";
+  font-family: "lemonada";
 }
 h1{
-  font-family: "Georgia";
+  font-family: "Indie+Flower";
 }
 /*font-size tag*/
 h1{
@@ -18,7 +18,7 @@ span{
 
 /*Fontweight Tag */
 p{
-  font-weight: bold;
+  font-weight: lighter;
 }
 
 /*Line-height Tag*/
