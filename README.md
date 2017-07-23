@@ -1,6 +1,6 @@
 # Udemy Fullstack Practice Course
 
-##Throughout the course I am reviewing tons of tools and technologies including:
+## Throughout the course I am reviewing tons of tools and technologies including:
 
 * HTML5
 * CSS3
