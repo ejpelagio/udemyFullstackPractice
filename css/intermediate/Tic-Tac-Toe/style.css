@@ -2,7 +2,9 @@ table{
   margin: auto;
 }
 
-
+h1{
+  text-align: center;
+}
 
 td{
   width: 100px;
