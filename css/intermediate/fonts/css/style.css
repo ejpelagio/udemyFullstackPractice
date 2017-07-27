@@ -1,42 +1,56 @@
 /*font-family tag*/
-p{
+
+p {
   font-family: "lemonada";
 }
-h1{
+
+h1 {
   font-family: "Indie+Flower";
 }
+
+
 /*font-size tag*/
-h1{
+
+h1 {
   font-size: 5.0em;
 }
-p{
-  font-size: 2.0em;
-}
-span{
+
+p {
   font-size: 2.0em;
 }
 
+span {
+  font-size: 2.0em;
+}
+
+
 /*Fontweight Tag */
-p{
+
+p {
   font-weight: lighter;
 }
 
+
 /*Line-height Tag*/
 
-p{
+p {
   line-height: 1.5;
 }
 
+
 /*text-align tag*/
-h1{
+
+h1 {
   text-align: center;
 }
-/*text-decoration Tag*/
-h1
-{
-  text-decoration: line-through;
 
+
+/*text-decoration Tag*/
+
+h1 {
+  text-decoration: line-through;
 }
-p{
+
+p {
   text-decoration: underline;
 }

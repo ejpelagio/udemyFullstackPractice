@@ -1,23 +1,22 @@
-table{
+table {
   margin: auto;
 }
 
-h1{
+h1 {
   text-align: center;
 }
 
-td{
+td {
   width: 100px;
   height: 100px;
-
 }
 
-.middle{
+.middle {
   border-left: 1px solid red;
-  border-right:1px solid red;
+  border-right: 1px solid red;
 }
 
-.horizontal{
+.horizontal {
   border-top: 1px solid red;
   border-bottom: 1px solid red;
 }

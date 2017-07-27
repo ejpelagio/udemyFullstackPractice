@@ -1,9 +1,9 @@
-h4{
+h4 {
   background: rgb(255, 100, 80);
   border: 4px dashed black;
 }
 
-body{
+body {
   background: url(https://s-media-cache-ak0.pinimg.com/originals/b6/07/95/b60795007716db1797bf6245dda97361.jpg)
   /*background-repeat: no-repeat;*/
   /*background-size: cover;*/

@@ -1,11 +1,12 @@
-body{
+body {
   background: ;
 }
-li{
+
+li {
   border: 2px solid black;
 }
 
-#special-li{
+#special-li {
   background: yellow;
 }
 
