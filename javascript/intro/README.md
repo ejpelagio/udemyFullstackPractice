@@ -1,8 +1,8 @@
 # Intro to JavaScript
 
-##Objectives
+## Objectives
 
-* 5 Primitive Datatypes
+* 5 Primitive Datatypes in JavaScript
 
 ```javascript
 //Numbers
