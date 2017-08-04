@@ -28,3 +28,9 @@ function factorial(num){
   }
   return result;
 }
+
+// KebabToSnake Problem
+function kebabToSnake(str){
+  var newStr = str.replace(/-/g, "_");
+  return newStr;
+}
