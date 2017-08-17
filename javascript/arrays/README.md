@@ -92,3 +92,26 @@ var otherNums = nums.slice();
 //both arrays are [1,2,3]
 
 ```
+
+### For vs. ForEach
+
+* JavaScript provides an easy built-in way of iterating over an array: ForEach
+
+* To loop over an array using a for loop, we need to make use of the array's  length property
+
+```javascript
+//with a for loop
+var colors = ["red", "orange", "yellow", "green"];
+
+for(var i = 0; i < colors.length; i++) {
+  console.log(colors[i]);
+}
+
+//using forEach
+var colors = ["red", "orange","yellow", "green"];
+
+colors.forEach(function(color){
+  console.log(color);
+});
+
+```
