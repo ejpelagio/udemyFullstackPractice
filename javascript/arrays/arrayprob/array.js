@@ -38,3 +38,21 @@ function sumArray(arr){
   // Returning total
   return total;
 }
+
+// Starting max()
+
+// Creating my function max
+function max(arr){
+  // creating the var max =0
+  var max = arr[0];
+  // looping thru my array
+  for (var i = 1; i < arr.length; i++) {
+    // check if i is greater that i
+    if (arr[i] > max ) {
+      // max is now equal to array i
+      max = arr[i];
+
+    }
+  }
+  return max;
+}
