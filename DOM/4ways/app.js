@@ -13,4 +13,4 @@ var p3 = document.getElementById("first");
 
 // fourth way to select the first  p tags
 
-var p4 = document.getElementByClassName("special")[0];
+var p4 = document.getElementsByClassName("special")[0];
